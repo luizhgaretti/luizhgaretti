@@ -1,16 +1,23 @@
-## Hi there 👋
+📫 Como chegar até mim:
 
-<!--
-**luizhgaretti/luizhgaretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Eu já trabalhei com:
+Cloud Providers
+AWS Google Cloud
 
-Here are some ideas to get you started:
+Nível de Estudos
+Azure DigitalOcean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Versionamento de código
+GitHub GitLab Git
+
+CI/CD
+Github Actions GitLab CI Jenkins
+
+Ferramentas
+VS Code Eclipse IntelliJ IDEA NetBeans IDE Confluence Docker Jira Kubernetes Postman Rancher Trello
+
+Linguagens
+Terraform Python Shell PowerShell
+
+Observabilidade e Monitoramento
+Grafana Prometheus Splunk
