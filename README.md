@@ -1,5 +1,7 @@
-<div>
-<a href="https://github.com/luizhgaretti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhgaretti&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhgaretti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Garetti aqui :)
+Atualmente Gerente de times Tech no @Grupo Boticário, mas aspirante a programador nas horas vagas por estudo e diversão.
+
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/luizhenriquegaretti/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
