@@ -6,7 +6,7 @@
 </p>
 
 ### 👨‍💻 Sobre mim
-* 🎓 **Acadêmico:** Cientista da Computação com MBA em Big Data.
+* 🎓 **Formação:** Cientista da Computação com MBA em Big Data.
 * 💼 **Atuação:** Gerente de Tecnologia no **Grupo Boticário**, liderando times de *Generative AI, MLOps e Core Data Platform*.
 * 🚀 **Lifelong Learner:** Aprofundando em Engenharia de Prompt, Python Avançado e ecossistema Node.JS.
 * 🏍️ **Curiosidade:** Quando não estou entre modelos de IA, estou cruzando as estradas da América Latina de moto.
